@@ -10,7 +10,7 @@
             "name": "rune-knight-pack",
             "label": "Rune Knight Subclass Pack",
             "type": "Item",
-            "path": "data/rune_knight.json"
+            "path": "rune-knight-module/data/rune_knight.json"
         }
     ],
     "system": "dnd5e"
