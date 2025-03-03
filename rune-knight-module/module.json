@@ -3,13 +3,17 @@
     "title": "Rune Knight Subclass",
     "description": "A custom subclass for the Fighter class focused on rune magic and giant powers.",
     "version": "1.0.0",
-    "author": "YourName",
+    "author": "DaddyEspio",
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "11",
+    "manifest": "https://raw.githubusercontent.com/DaddyEspio/Rune-Knight-Module/main/rune-knight-module/module.json",
+    "download": "https://github.com/DaddyEspio/Rune-Knight-Module/releases/latest/download/rune-knight.zip",
     "packs": [
         {
             "name": "rune-knight-pack",
             "label": "Rune Knight Subclass Pack",
             "type": "Item",
-            "path": "https://raw.githubusercontent.com/DaddyEspio/Rune-Knight-Module/main/rune-knight-module/data/rune_knight.json"
+            "path": "packs/rune_knight.json"
         }
     ],
     "system": "dnd5e"
